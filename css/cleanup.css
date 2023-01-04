@@ -1,1 +1,18 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+    background-color: mediumaquamarine;
+}
+
+body {
+    background-color: skyblue;
+}
+.tag-1 {
+    display:block;
+    background-color: turquoise;
+}
+#tag-2,#tag-3,#tag-4,#tag-5,#tag-6,#tag-7 {
+    top:400px;
+    position:relative;
+    bottom:500px;
+}
